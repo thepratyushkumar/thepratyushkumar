@@ -37,11 +37,6 @@ Right now this profile showcases a Pac-Man game built from GitHub contributions.
   <img src="https://skillicons.dev/icons?i=go,python,ts,nodejs,graphql,postgres,redis,docker,kubernetes,aws,linux,bash,git,github,githubactions,npm,vscode,html,css&theme=dark" alt="Tech stack icons" />
 </p>
 
-- **Languages:** Go, Python, TypeScript, JavaScript
-- **Backend:** Node.js, GraphQL, APIs, Postgres, Redis
-- **Infra and automation:** Docker, Kubernetes, GitHub Actions, Linux, Bash
-- **Frontend experiments:** HTML, CSS, SVG, Canvas
-
 ---
 
 ## Contribution Graph
